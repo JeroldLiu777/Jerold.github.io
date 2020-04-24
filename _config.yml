@@ -99,5 +99,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: 'https://github.com/lucifer717/Jerold.github.io.git' # https://github.com/TJ-XiaJiaHao/TJ-XiaJiaHao.github.io
+  repo: 'https://github.com/lucifer717/Jerold.github.io' # https://github.com/TJ-XiaJiaHao/TJ-XiaJiaHao.github.io
   branch: 'master'
